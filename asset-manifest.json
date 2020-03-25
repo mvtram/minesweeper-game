@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/new-game/static/css/main.e216b23f.chunk.css",
-    "main.js": "/new-game/static/js/main.33de2aaf.chunk.js",
-    "main.js.map": "/new-game/static/js/main.33de2aaf.chunk.js.map",
-    "runtime-main.js": "/new-game/static/js/runtime-main.823cfab3.js",
-    "runtime-main.js.map": "/new-game/static/js/runtime-main.823cfab3.js.map",
-    "static/js/2.635a84f9.chunk.js": "/new-game/static/js/2.635a84f9.chunk.js",
-    "static/js/2.635a84f9.chunk.js.map": "/new-game/static/js/2.635a84f9.chunk.js.map",
-    "index.html": "/new-game/index.html",
-    "precache-manifest.9dfb30216e75c05a1b7c6713cdc513d9.js": "/new-game/precache-manifest.9dfb30216e75c05a1b7c6713cdc513d9.js",
-    "service-worker.js": "/new-game/service-worker.js",
-    "static/css/main.e216b23f.chunk.css.map": "/new-game/static/css/main.e216b23f.chunk.css.map",
-    "static/js/2.635a84f9.chunk.js.LICENSE": "/new-game/static/js/2.635a84f9.chunk.js.LICENSE"
+    "main.css": "/minesweeper-game/static/css/main.e216b23f.chunk.css",
+    "main.js": "/minesweeper-game/static/js/main.46694115.chunk.js",
+    "main.js.map": "/minesweeper-game/static/js/main.46694115.chunk.js.map",
+    "runtime-main.js": "/minesweeper-game/static/js/runtime-main.ff112d1e.js",
+    "runtime-main.js.map": "/minesweeper-game/static/js/runtime-main.ff112d1e.js.map",
+    "static/js/2.635a84f9.chunk.js": "/minesweeper-game/static/js/2.635a84f9.chunk.js",
+    "static/js/2.635a84f9.chunk.js.map": "/minesweeper-game/static/js/2.635a84f9.chunk.js.map",
+    "index.html": "/minesweeper-game/index.html",
+    "precache-manifest.f6a25afa660832b508d5569ab8f208ab.js": "/minesweeper-game/precache-manifest.f6a25afa660832b508d5569ab8f208ab.js",
+    "service-worker.js": "/minesweeper-game/service-worker.js",
+    "static/css/main.e216b23f.chunk.css.map": "/minesweeper-game/static/css/main.e216b23f.chunk.css.map",
+    "static/js/2.635a84f9.chunk.js.LICENSE": "/minesweeper-game/static/js/2.635a84f9.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.823cfab3.js",
+    "static/js/runtime-main.ff112d1e.js",
     "static/js/2.635a84f9.chunk.js",
     "static/css/main.e216b23f.chunk.css",
-    "static/js/main.33de2aaf.chunk.js"
+    "static/js/main.46694115.chunk.js"
   ]
 }
